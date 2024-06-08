@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9341],{2120:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/v-2-0-0","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"The ramblings of the Developers @ Reedroux`s","blogTitle":"Reedroux\'s Blog"}')}}]);
