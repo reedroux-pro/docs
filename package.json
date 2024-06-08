@@ -28,6 +28,11 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reedroux-pro/docs.git"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -55,3 +60,4 @@
     "webpack": "^5.88.2"
   }
 }
+
